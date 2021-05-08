@@ -1,0 +1,3 @@
+object FromOracle2Mysql {
+
+}
